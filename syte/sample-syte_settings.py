@@ -5,9 +5,9 @@ COMPRESS_REVISION_NUMBER = '1.0'
 
 
 #Blog Integration: Tumblr
-TUMBLR_BLOG_URL = 'http://naveedehmad.tumblr.com/'
+TUMBLR_BLOG_URL = '[TUMBLR BLOG URL]'
 TUMBLR_API_URL = 'http://api.tumblr.com/v2/blog/{0}'.format(TUMBLR_BLOG_URL)
-TUMBLR_API_KEY = 'eOfd2VgiyNWoC8IIFR7yPJRXDVkv2HoRrUoqxOW5hIp4VEwtl2'
+TUMBLR_API_KEY = '[API KEY]'
 
 #RSS Feed Integration: (by default use Tumbrl rss feed)
 RSS_FEED_ENABLED = True
